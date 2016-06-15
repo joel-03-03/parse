@@ -1,64 +1,64 @@
 { 
-"población mundial": 
+"worldpopulation": 
 	[
 		 {
-		 "Rango": 1, "país": "China",
-		 "Población": "1354040000",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/china.png"
+		 "rank":1,"country":"China",
+		 "population":"1,354,040,000",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/china.png"
 		 }, 
 		
 		 {
-		 "Rango": 2, "país": "La India",
-		 "Población": "1210193422",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/india.png"
+		 "rank":2,"country":"India",
+		 "population":"1,210,193,422",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/india.png"
 		 }, 
 		 
 		 {
-		 "Rango": 3, "país": "Estados Unidos",
-		 "Población": "315761000",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/unitedstates.png"
+		 "rank":3,"country":"United States",
+		 "population":"315,761,000",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/unitedstates.png"
 		 }, 
 		 
 		 {
-		 "Rango": 4, "país": "Indonesia",
-		 "Población": "237641326",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/indonesia.png"
+		 "rank":4,"country":"Indonesia",
+		 "population":"237,641,326",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
 		 }, 
 		 
 		 {
-		 "Rango": 5, "país": "Brasil",
-		 "Población": "193946886",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/brazil.png"
+		 "rank":5,"country":"Brazil",
+		 "population":"193,946,886",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/brazil.png"
 		 }, 
 		 
 		 {
-		 "Rango": 6, "país": "Pakistán",
-		 "Población": "182912000",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/pakistan.png"
+		 "rank":6,"country":"Pakistan",
+		 "population":"182,912,000",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/pakistan.png"
 		 }, 
 		 
 		 {
-		 "Rango": 7, "país": "Nigeria",
-		 "Población": "170,901,000",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/nigeria.png"
+		 "rank":7,"country":"Nigeria",
+		 "population":"170,901,000",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/nigeria.png"
 		 }, 
 		 
 		 {
-		 "Rango": 8, "país": "Bangladesh",
-		 "Población": "152518015",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/bangladesh.png"
+		 "rank":8,"country":"Bangladesh",
+		 "population":"152,518,015",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/bangladesh.png"
 		 }, 
 		 
 		 {
-		 "Rango": 9, "país": "Rusia",
-		 "Población": "143369806",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/russia.png"
+		 "rank":9,"country":"Russia",
+		 "population":"143,369,806",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/russia.png"
 		 }, 
 		 
 		 {
-		 "Rango": 10, "país": "Japón",
-		 "Población": "127360000",
-		 "Bandera": "http://www.androidbegin.com/tutorial/flag/japan.png"
+		 "rank":10,"country":"Japan",
+		 "population":"127,360,000",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/japan.png"
 		 } 
 	] 
 }

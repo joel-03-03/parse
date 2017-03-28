@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Omint MOLI</title>
+		<script language="javascript">
+
+			function validClick()
+			{
+				valid.performClick();
+				document.getElementById("ok").value = "J'accepte";
+			}
+			function refuseClick()
+			{
+				refuse.performClick();
+				document.getElementById("no").value = "Je refuse";
+			}
+
+		</script>
+	</head>
+	
+	<body>
+		<a>:D MOLI</a>
+		<div>
+		<button type="button" id="ok" style="font-weight: 700; margin-right: 20px;" onclick="validClick();">J'accepte</button>
+		<button type="button" id="no" onclick="refuseClick();">Je refuse</button>
+	</div>
+	</body>
+	
+</html>
